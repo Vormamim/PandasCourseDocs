@@ -1,4 +1,20 @@
-# 1. Activities
+---
+icon: right-to-bracket
+---
+
+# Activities A
+
+### Create a NEW Document
+
+Create a document and complete the activities.&#x20;
+
+Give the document a the following title
+
+`nameSurname - Activities A`
+
+This is what you will be handing in on Google Classrooms. Keep updating it as you go.
+
+<mark style="background-color:green;">**Create a new repository on GitHub called "DataScience"**</mark>
 
 ### Understanding Data vs Information
 
@@ -62,19 +78,22 @@ Choose **two** of the following scenarios and answer:
 
 ***
 
-#### Activity 3: Create a Data Flow
+#### Activity 3: Create a Data Flow Diagram
 
-Create a simple data flow diagram using Excalidraw.
+{% embed url="https://www.youtube.com/watch?v=X-O6s5sah4o" %}
+
+Create some simple **data flow diagrams** using [Excalidraw](https://excalidraw.com/).
+
+* Context Diagram
+* A  Level 1 Dataflow Diagram
 
 Choose one:
 
-* A school canteen tracking food sales
-* A YouTuber analysing video views
-* A personal budgeting app
+* A YouTuber analysing video statistics
 
 Label the flow like this:**Input → Storage → Process → Output (+ Feedback if needed)**
 
-> 💡 **Challenge**: Add multiple inputs or a feedback loop.
+
 
 ***
 

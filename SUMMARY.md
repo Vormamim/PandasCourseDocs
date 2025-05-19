@@ -1,15 +1,16 @@
 # Table of contents
 
 * [Data Science -Unit Outline](README.md)
+* [Project Diary](project-diary.md)
 
 ## Week 1
 
-* [1. Objectives](week-1/1.-objectives.md)
-* [1. Data verses information](week-1/1.-data-verses-information.md)
+* [Objectives](week-1/objectives.md)
+* [Data verses information](week-1/data-verses-information.md)
 
 ***
 
-* [1. Activities](1.-activities.md)
+* [Activities A](activities-a.md)
 
 ## Week 2
 
@@ -17,8 +18,8 @@
 
 ***
 
-* [Activties 1](activties-1.md)
-* [Activities 2](activities-2.md)
+* [Activties 2](activties-2.md)
+* [Activities 3](activities-3.md)
 
 ## Week 3
 
