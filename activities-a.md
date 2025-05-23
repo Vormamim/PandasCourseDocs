@@ -87,9 +87,11 @@ Create some simple **data flow diagrams** using [Excalidraw](https://excalidraw.
 * Context Diagram
 * A  Level 1 Dataflow Diagram
 
-Choose one:
+For a YouTuber analysing video statistics
 
-* A YouTuber analysing video statistics
+Here a page explaining what might be going on: [https://sproutsocial.com/insights/youtube-analytics/](https://sproutsocial.com/insights/youtube-analytics/)
+
+You might not be able to access or explain all of it, so focus on what makes sense right now.
 
 Label the flow like this:**Input → Storage → Process → Output (+ Feedback if needed)**
 
