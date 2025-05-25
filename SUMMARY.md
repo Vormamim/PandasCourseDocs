@@ -3,6 +3,7 @@
 * [Data Science -Unit Outline](README.md)
 * [Project Diary](project-diary.md)
 * [GitHub Code Space](github-code-space.md)
+* [Panda References](panda-references.md)
 
 ## Week 1
 
