@@ -30,6 +30,7 @@
 ***
 
 * [More Sorting Actvities](more-sorting-actvities.md)
+* [Challenge D - Sorting](challenge-d-sorting.md)
 
 ## Week 4
 
