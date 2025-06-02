@@ -1,4 +1,8 @@
-# Activities 2
+---
+icon: right-to-bracket
+---
+
+# Activities C
 
 ### Activity 1: Describe the Dataset
 
