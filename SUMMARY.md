@@ -31,7 +31,7 @@
 
 * [More Sorting Actvities](more-sorting-actvities.md)
 * [Referencing Parent and Sub-Directories in VS Code](referencing-parent-and-sub-directories-in-vs-code.md)
-* [Internal, Export and Load](internal-export-and-load.md)
+* [Internal, Exportinh and Loading Data Files](internal-exportinh-and-loading-data-files.md)
 * [Challenge D - Sorting](challenge-d-sorting.md)
 
 ## Week 4
