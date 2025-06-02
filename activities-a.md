@@ -119,27 +119,7 @@ In this course, we will explore **real-world data** from the Olympic Games. The 
 * Which columns are **inputs** (raw data) and which are **outputs** (useful summaries)?
 * What might be some **useful questions** we could explore using this data?
 
-**Practical Task: Load with Pandas**
 
-If you're confident using Python, try running this code with Python and the pandas library
-
-To use the pandas library in Python, follow these steps:
-
-1.  **Install Pandas**: If you haven't already installed pandas, you can do so using pip in the terminal:
-
-    ```bash
-    pip install pandas
-    ```
-
-```python
-import pandas as pd
-
-df = pd.read_csv("athlete_events.csv")
-print(df.head())
-print(df.columns)
-```
-
-**Try using Excel if you're not confident with installing and using Pandas right now.**
 
 ***
 

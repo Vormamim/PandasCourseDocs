@@ -20,8 +20,8 @@
 
 ***
 
-* [Activties 2](activties-2.md)
-* [Activities 3](activities-3.md)
+* [Activties B](activties-b.md)
+* [Activities C](activities-c.md)
 
 ## Week 3
 
