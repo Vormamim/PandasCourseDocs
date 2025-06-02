@@ -12,6 +12,8 @@ my\_dict = {'Name': 'Alice', 'Age': 25}
 
 You can use the key to quickly find the value, just like looking up a word in a real dictionary!
 
+<mark style="background-color:yellow;">Not sure what a Dictionary is or can do? -</mark> [<mark style="background-color:yellow;">https://www.w3schools.com/python/python\_dictionaries.asp</mark>](https://www.w3schools.com/python/python_dictionaries.asp)
+
 ```python
 import pandas as pd
 
@@ -41,3 +43,5 @@ def main():
     # Display the loaded DataFrame
     print(df_loaded)
 ```
+
+Why do you think these three operations are key to working with data and information?
