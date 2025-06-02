@@ -4,7 +4,7 @@ icon: filters
 
 # Challenge D - Sorting
 
-## Pandas Challenge: Analyzing Student Grades
+## Pandas Challenge: Analysing Student Grades
 
 This challenge will help you practice filtering, sorting, and grouping data using Pandas.\
 You will work with a CSV file called `grades.csv` containing student grades.
@@ -86,4 +86,11 @@ You may want to use these Pandas methods:
 * `.groupby()`
 * `.mean()`
 
-Good luck!
+## Hints
+
+```
+Paths
+'dummy_data.csv' → same folder as your script
+'data/dummy_data.csv' → in a subfolder called data
+'../dummy_data.csv' → in the parent folder of your scrip
+```
