@@ -1,3 +1,7 @@
+---
+icon: right-to-bracket
+---
+
 # More Sorting Actvities
 
 Task 5: Aggregating with `groupby()`

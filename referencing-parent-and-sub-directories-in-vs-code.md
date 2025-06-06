@@ -1,3 +1,7 @@
+---
+icon: notebook
+---
+
 # Referencing Parent and Sub-Directories in VS Code
 
 Learn how to correctly reference files stored in **parent** and **sub-directories** using relative paths in VS Code. You’ll use a real-world folder structure to read `.csv` files from different locations.

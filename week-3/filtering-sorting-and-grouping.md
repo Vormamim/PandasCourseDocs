@@ -1,3 +1,7 @@
+---
+icon: right-to-bracket
+---
+
 # Filtering, Sorting & Grouping
 
 ## Finding Patterns in Data
