@@ -33,7 +33,7 @@
 * [More Sorting Actvities](more-sorting-actvities.md)
 * [Needs help with the practical Tasks?](needs-help-with-the-practical-tasks.md)
 * [Referencing Parent and Sub-Directories in VS Code](referencing-parent-and-sub-directories-in-vs-code.md)
-* [Prac](prac.md)
+* [Prac - Put a file in a Directory and use it](prac-put-a-file-in-a-directory-and-use-it.md)
 * [Internal, Exportinh and Loading Data Files](internal-exportinh-and-loading-data-files.md)
 * [Challenge D - Sorting](challenge-d-sorting.md)
 
