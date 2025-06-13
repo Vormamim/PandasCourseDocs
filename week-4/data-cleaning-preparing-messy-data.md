@@ -57,25 +57,59 @@ Challenge:
 
 ***
 
-Task 3: Fill Missing Values (e.g. 'Medal')
+### Task 3: Fill Missing Values (e.g. 'Medal')
+
+The `.iloc` property in pandas is used for **integer-location based indexing**.\
+It allows you to select rows and columns from a DataFrame by their integer positions (like using row and column numbers).
+
+**Examples:**
+
+* df.iloc\[0] — selects the first row.
+* df.iloc\[0:5] — selects the first five rows.
+* df.iloc\[:, 0] — selects the first column.
+* df.iloc\[0, 0] — selects the value at the first row and first column.
+* df.iloc\[2:4, 1:3] — selects rows 2 and 3, columns 1 and 2.
 
 ```python
+import pandas as pd
+
+# Load the dataset
+df = pd.read_csv("athlete_events.csv")
+
+# Count missing values in each column
+print(df.isnull().sum())
+
+print("")
+print("")
+print("")
+
+
+# Drop rows missing both height and weight
+df_cleaned = df.dropna(subset=['Height', 'Weight'])
+print(df_cleaned.shape)
+
+print("")
+print("")
+print("")
+
 # Fill missing medals with 'None'
-df_cleaned['Medal'] = df_cleaned['Medal'].fillna('None')
+df_cleaned.loc[:, 'Medal'] = df_cleaned['Medal'].fillna('None')
 
 # Fill missing ages with average age
 avg_age = df_cleaned['Age'].mean()
-df_cleaned['Age'] = df_cleaned['Age'].fillna(avg_age)
+df_cleaned.loc[:, 'Age'] = df_cleaned['Age'].fillna(avg_age)
+
+print(df_cleaned.head())
 ```
 
-Try:
+Add:
 
-* Replace missing **Weight** with average weight
-* Use `.median()` instead of `.mean()` and compare
+*
+* `.median()` as well as `.mean()` and compare the results
 
 ***
 
-Task 4: Detect Inconsistent Data
+### Task 4: Detect Inconsistent Data
 
 ```python
 # Unique values in 'Sex' and 'Medal'
@@ -95,7 +129,7 @@ df_cleaned['Medal'] = df_cleaned['Medal'].str.strip()
 
 ***
 
-Task 5: Validate and Describe Cleaned Data
+### Task 5: Validate and Describe Cleaned Data
 
 ```python
 # Check again for missing values
@@ -112,7 +146,7 @@ Reflection:
 
 ***
 
-Task 6: Save the Clean Dataset
+### Task 6: Save the Clean Dataset
 
 ```python
 # Save your cleaned version
