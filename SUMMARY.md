@@ -5,6 +5,7 @@
 * [GitHub Code Space](github-code-space.md)
 * [SEE-I Model](see-i-model.md)
 * [Panda References](panda-references.md)
+* [Theory Assessment Study Guide](theory-assessment-study-guide.md)
 
 ## Week 1
 
