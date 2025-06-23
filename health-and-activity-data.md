@@ -1,6 +1,10 @@
 # Health & Activity Data
 
-#### Objectives:
+####
+
+{% file src=".gitbook/assets/health_activity_data (1).csv" %}
+
+Objectives:
 
 * Load and explore `health_activity_data.csv`
 * Compare structure with previous dataset
@@ -21,7 +25,7 @@ print(df.columns)
 print(df.info())
 ```
 
-✅ Task: Write down 3 observations about how this dataset is different from `athlete_events.csv`.
+✅ Task: Write down 3 observations about how this dataset is different from `health_activity_data.csv`
 
 ***
 
@@ -83,4 +87,3 @@ plt.savefig("step_distribution.png")
 plt.show()
 ```
 
-###
