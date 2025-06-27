@@ -126,7 +126,7 @@ Task 6: Create Your Own Chart
 
 Design a chart to answer a question you find interesting. Ideas:
 
-* Average height by sport
+* **Mean** height by sport
 * Top 5 countries in a specific year
 * Medal breakdown by gender
 
